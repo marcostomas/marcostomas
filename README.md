@@ -5,4 +5,4 @@
 :construction_worker:    I work as a software engineer intern at [Itaú Unibanco](https://itau.com.br/), developing and mantaining websites and robots, including front-end, back-end, database, documentation and organizing tasks </br>
 :satellite:               If you wanna get in touch, send an e-mail or connect on LinkedIn.
 
-[![Email Badge](https://img.shields.io/badge/-mail-0078d4?style=for-the-badge&logoColor=white&link=mailto:mtomasferreira@hotmail.com)](mailto:mptf@duck.com)  [![](https://img.shields.io/badge/Marcos-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tomas/)
+[![](https://img.shields.io/badge/mail-de5833?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:mptf@duck.com)  [![](https://img.shields.io/badge/Marcos-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-tomas/)
